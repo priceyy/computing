@@ -1,2 +1,2 @@
-# computing
+# Computing
 Computing revision notes
