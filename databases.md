@@ -20,7 +20,9 @@ For example, it's hard to make sense of this data which contains data from an ad
 |---------------|--------------|---------------|---------------|
 | 02298 837492  | James        | Irfan         | Becky         |
 | james@bbc.com | 04972 048204 | Mo            | irfan@bbc.com |
-| 04973 048204  | nia@bbc.com  | Email         | Parker        |  
+| 04973 048204  | nia@bbc.com  | Email         | Parker        | 
+
+that's better ...
 
 | ID | Name  | HomePhone    | Mobile        | Email         |
 |:---|-------|--------------|---------------|---------------|
