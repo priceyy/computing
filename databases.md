@@ -21,3 +21,10 @@ For example, it's hard to make sense of this data which contains data from an ad
 | 02298 837492  | James        | Irfan         | Becky         |
 | james@bbc.com | 04972 048204 | Mo            | irfan@bbc.com |
 | 04973 048204  | nia@bbc.com  | Email         | Parker        |  
+
+| ID | Name  | HomePhone    | Mobile        | Email         |
+|:---|-------|--------------|---------------|---------------|
+| 1  | Irfan | 02298 837492 | 0888 87492    | irfan@bbc.com |
+| 2  | James | 02398 374927 | 098284 278213 | james@bbc.com |
+| 3  | Becky | 03472 827492 | 098252 472911 | becky@bbc.com |
+| 4  | Nia   | 04972 048204 | 046482 472912 | nia@bbc.com   |
